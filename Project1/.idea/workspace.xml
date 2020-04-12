@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c47bc76c-263d-4402-b09f-a5b3877d8bed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAyFhvZc2iZcyn57jBktNI9wpk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="Home.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/11Web PJ1/Home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web PJ1/Home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/11Web PJ1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web PJ1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.Home.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c47bc76c-263d-4402-b09f-a5b3877d8bed" name="Default Changelist" comment="" />
+      <created>1586192590934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586192590934</updated>
+      <workItem from="1586192592944" duration="990000" />
+      <workItem from="1586227573756" duration="1033000" />
+      <workItem from="1586228670297" duration="141000" />
+      <workItem from="1586229081053" duration="1433000" />
+      <workItem from="1586230921619" duration="509000" />
+      <workItem from="1586251390006" duration="998000" />
+      <workItem from="1586252501448" duration="1759000" />
+      <workItem from="1586254303365" duration="389000" />
+      <workItem from="1586256113085" duration="1775000" />
+      <workItem from="1586263402601" duration="1661000" />
+      <workItem from="1586265206490" duration="1429000" />
+      <workItem from="1586267126117" duration="1771000" />
+      <workItem from="1586268939019" duration="1791000" />
+      <workItem from="1586270794878" duration="41000" />
+      <workItem from="1586274290825" duration="1540000" />
+      <workItem from="1586275952386" duration="1805000" />
+      <workItem from="1586277818562" duration="1773000" />
+      <workItem from="1586279637618" duration="1770000" />
+      <workItem from="1586281448904" duration="400000" />
+      <workItem from="1586337653107" duration="1473000" />
+      <workItem from="1586339168047" duration="824000" />
+      <workItem from="1586344767233" duration="1162000" />
+      <workItem from="1586355598730" duration="1768000" />
+      <workItem from="1586357404198" duration="1772000" />
+      <workItem from="1586359214488" duration="1772000" />
+      <workItem from="1586361025960" duration="1664000" />
+      <workItem from="1586362836623" duration="1772000" />
+      <workItem from="1586364658240" duration="1776000" />
+      <workItem from="1586366535244" duration="1768000" />
+      <workItem from="1586368343856" duration="1765000" />
+      <workItem from="1586370218300" duration="1074000" />
+      <workItem from="1586441566441" duration="1721000" />
+      <workItem from="1586443357267" duration="1772000" />
+      <workItem from="1586445169182" duration="822000" />
+      <workItem from="1586447064084" duration="1385000" />
+      <workItem from="1586448755049" duration="43000" />
+      <workItem from="1586449554178" duration="1092000" />
+      <workItem from="1586450679360" duration="1781000" />
+      <workItem from="1586452502944" duration="1772000" />
+      <workItem from="1586454314447" duration="663000" />
+      <workItem from="1586520611916" duration="859000" />
+      <workItem from="1586521696745" duration="414000" />
+      <workItem from="1586533286333" duration="1035000" />
+      <workItem from="1586534355151" duration="1771000" />
+      <workItem from="1586536177986" duration="1101000" />
+      <workItem from="1586537329386" duration="829000" />
+      <workItem from="1586538186126" duration="1775000" />
+      <workItem from="1586540014249" duration="1061000" />
+      <workItem from="1586541119373" duration="1098000" />
+      <workItem from="1586543655652" duration="287000" />
+      <workItem from="1586598214643" duration="1114000" />
+      <workItem from="1586599350969" duration="286000" />
+      <workItem from="1586599657023" duration="1603000" />
+      <workItem from="1586601378649" duration="69000" />
+      <workItem from="1586601470529" duration="238000" />
+      <workItem from="1586604855516" duration="1727000" />
+      <workItem from="1586606635245" duration="1774000" />
+      <workItem from="1586608448346" duration="693000" />
+      <workItem from="1586609206916" duration="1761000" />
+      <workItem from="1586611012986" duration="274000" />
+      <workItem from="1586611339081" duration="1758000" />
+      <workItem from="1586613135250" duration="1771000" />
+      <workItem from="1586614947281" duration="1771000" />
+      <workItem from="1586616832806" duration="941000" />
+      <workItem from="1586620075223" duration="1680000" />
+      <workItem from="1586621833202" duration="280000" />
+      <workItem from="1586622809004" duration="799000" />
+      <workItem from="1586623700051" duration="414000" />
+      <workItem from="1586624193483" duration="270000" />
+      <workItem from="1586624511940" duration="1332000" />
+      <workItem from="1586669663302" duration="4000" />
+      <workItem from="1586669868419" duration="3349000" />
+      <workItem from="1586673450288" duration="8721000" />
+      <workItem from="1586682188374" duration="4396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.2.center" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.2.left" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state width="1237" height="204" key="GridCell.Tab.2.right" timestamp="1586682179115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1586682179115" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1586669868308">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586669868308" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586678071471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586678071471" />
+  </component>
+</project>
